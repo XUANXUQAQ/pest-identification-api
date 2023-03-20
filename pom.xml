@@ -18,7 +18,7 @@
     <modules>
         <module>../pest-identification-consumer</module>
         <module>../Pest-Identification-Gateway</module>
-        <module>../pest-identification</module>
+        <module>../pest-identification-provider</module>
         <module>../pest-identification-entity</module>
     </modules>
 
